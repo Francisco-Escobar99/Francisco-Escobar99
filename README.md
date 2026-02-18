@@ -17,11 +17,11 @@
 
 
 <!--Intro start-->
-- 🧑‍🎓 Egresado de la carrera de ingenieria en desarrollo de software**
+- 🧑‍🎓 Ingenierio en desarrollo de software**
 
 - 🧑‍💻 Desarrollador Frontend**
 
-- 📒 Conocimientos de Html, Css, JavaScript, Python, Php, Java, Bootstrap, Sql.
+- 📒 Conocimientos de Html, Css, JavaScript, Python, Php, Bootstrap, Sql.
 
 - 💻 Desarrollo en ReactJs, Angular, VueJs, NodeJs**
 
